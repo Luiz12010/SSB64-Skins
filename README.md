@@ -14,7 +14,7 @@ STEPS:
 - use xdelta to apply the patch to your ROM.
 
 WHAT IS THIS?:
-- This skin mod replaces Captain Falcon's skin with Waluigi.
+- This is a skin mod that replaces Captain Falcon's models with Waluigi.
 
 WHAT DOES IT HAVE?:
 - This skin mod has a CSS portraits and a Stock Icon.
